@@ -1,0 +1,38 @@
+
+h1{
+	font-family: 'Montserrat', sans-serif;
+     position:  absolute;
+     top: 100px;
+     left: 140px;
+     color:white;#FFEFD2
+     font-size: 5vw;
+}
+.btn-hello{
+	position:  absolute; 
+     top: 480px;
+     left: 550px;
+     background-color: #26596A;
+     border-color:white;
+     text-transform: uppercase;
+     color: white;
+     transition: all 1s;
+
+}
+
+.btn-hello:hover
+{
+   background-color: #3D5177;
+   border-color:white;
+   transform: scale(1.1);
+
+}
+
+.btn-xl{
+	padding: 1rem 2rem;
+}
+.text-uppercase{
+	font-size: 2.5em;
+}
+.btn{
+	border-radius: 120px;
+}
